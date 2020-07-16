@@ -12,7 +12,7 @@
     "board": [
         {
             "_id": "qeovinerv",
-            "name": "FrontEnd",
+            "title": "FrontEnd",
             "background": "#fff",
             "nextId":{
                 "activities":"a101",
