@@ -1,131 +1,151 @@
 {
     "user": [
         {
-            "_id": "u101",
-            "fullName": "User 1",
-            "imgSrc": "img/user/img1",
-            "email": "test@gmail.com",
-            "password": "3g35gwefewf43f3fgf43f43f423f",
+            "_id": "hU2mFm7id4",
+            "fullName": "Admin",
+            "imgSrc": "img/user/hU2mFm7id4",
+            "email": "admin@gmail.com",
+            "password": "admin123",
             "type": "admin"
         },
         {
-            "_id": "u102",
+            "_id": "J5e2w8Wzjt",
             "fullName": "Tal Shachar",
-            "imgSrc": "img/user/img2",
+            "imgSrc": "img/user/J5e2w8Wzjt",
             "email": "tal@gmail.com",
-            "password": "adfiunetoibounsdiucv45t",
+            "password": "123123",
             "type": "user"
         }
     ],
     "board": [
         {
-            "_id": "qeovinerv",
-            "title": "FrontEnd",
-            "background": "#fff",
+            "_id": "b100",
+            "title": "Google - Waze R&D Team",
+            "background": "#eeff55",
             "nextId": {
                 "activities": 101,
-                "labels": 101,
+                "labels": 102,
                 "groups": 102,
                 "tickets": 104,
-                "attachments": 106
+                "attachments": 103
             },
             "members": [
                 {
-                    "_id": "dfverwli3g43",
-                    "fullName": "user2",
-                    "imgSrc": "img/user/img2"
+                    "_id": "hU2mFm7id4",
+                    "fullName": "Admin",
+                    "imgSrc": "img/user/hU2mFm7id4"
+                },
+                {
+                    "_id": "J5e2w8Wzjt",
+                    "fullName": "Tal Shachar",
+                    "imgSrc": "img/user/J5e2w8Wzjt"
                 }
             ],
             "labels": [
                 {
                     "id": 100,
-                    "color": "4a4",
+                    "color": "#44aa44",
                     "title": "UX"
+                },
+                {
+                    "id": 101,
+                    "color": "#ee7777",
+                    "title": "Bug"
                 }
             ],
             "activities": [
                 {
                     "id": 100,
-                    "txt": "Tal edited ticket 234876 title",
-                    "createdAt": 1234567890,
+                    "txt": "Tal Shachar updated ticket title to Create logo",
+                    "createdAt": 1594975136198,
                     "ticketId": "4tbg2354f",
                     "by": {
-                        "_id": "u101",
-                        "fullName": "user1",
-                        "imgSrc": "img/user/img1"
+                        "_id": "J5e2w8Wzjt",
+                        "fullName": "Tal Shachar",
+                        "imgSrc": "img/user/J5e2w8Wzjt"
                     }
                 }
             ],
             "groups": [
                 {
                     "id": 100,
-                    "title": "QA",
-                    "color": "#fff",
+                    "title": "Backlog",
+                    "color": "#eeeeee",
                     "tickets": [
                         {
                             "id": 100,
-                            "title": "Ticket 1 title",
-                            "description": "Mofo again",
-                            "color": "#fff",
+                            "title": "Create logo",
+                            "description": "Create a minimal logo (SVG & PNG)",
+                            "color": "#ffffff",
                             "members": [
                                 {
-                                    "_id": "100",
-                                    "fullName": "user1",
-                                    "imgSrc": "img/user/img1"
+                                    "_id": "hU2mFm7id4",
+                                    "fullName": "Admin",
+                                    "imgSrc": "img/user/hU2mFm7id4"
                                 },
                                 {
-                                    "_id": 101,
-                                    "fullName": "user2",
-                                    "imgSrc": "img/user/img2"
+                                    "_id": "J5e2w8Wzjt",
+                                    "fullName": "Tal Shachar",
+                                    "imgSrc": "img/user/J5e2w8Wzjt"
                                 }
                             ],
                             "labels": [
-                                101,
-                                102
+                                100,
+                                101
                             ],
-                            "createdAt": 1234567890,
+                            "createdAt": 1594975494703,
                             "by": {
-                                "_id": 100,
-                                "fullName": "user1",
-                                "imgSrc": "img/user/img1"
+                                "_id": "J5e2w8Wzjt",
+                                "fullName": "Tal Shachar",
+                                "imgSrc": "img/user/J5e2w8Wzjt"
                             },
                             "comments": [
                                 {
                                     "id": 100,
-                                    "txt": "Need to push this to next sprint",
-                                    "createdAt": 1234567890,
+                                    "txt": "Push it to the next sprint",
+                                    "createdAt": 1594978259287,
                                     "by": {
-                                        "_id": "u101",
-                                        "fullName": "user1",
-                                        "imgSrc": "img/user/img1"
+                                        "_id": "hU2mFm7id4",
+                                        "fullName": "Admin",
+                                        "imgSrc": "img/user/hU2mFm7id4"
+                                    }
+                                },
+                                {
+                                    "id": 100,
+                                    "txt": "Gotcha",
+                                    "createdAt": 1594979419696,
+                                    "by": {
+                                        "_id": "J5e2w8Wzjt",
+                                        "fullName": "Tal Shachar",
+                                        "imgSrc": "img/user/J5e2w8Wzjt"
                                     }
                                 }
                             ],
                             "checklists": [
                                 {
                                     "id": 100,
-                                    "title": "UX",
+                                    "title": "Logo Settings",
                                     "items": [
                                         {
-                                            "txt": "some to do",
+                                            "txt": "Learn Photoshop exporting to SVG",
                                             "isDone": true
                                         },
                                         {
-                                            "txt": "some to do",
+                                            "txt": "Pick a font",
                                             "isDone": false
                                         }
                                     ]
                                 },
                                 {
                                     "id": 101,
-                                    "title": "Backend",
+                                    "title": "Final Tasks",
                                     "items": [
                                         {
-                                            "txt": "some to do",
-                                            "isDone": true
+                                            "txt": "Show the logo to 50 people",
+                                            "isDone": false
                                         },
                                         {
-                                            "txt": "some to do",
+                                            "txt": "Add the logo to the app",
                                             "isDone": false
                                         }
                                     ]
@@ -151,187 +171,79 @@
                         },
                         {
                             "id": 101,
-                            "title": "Testing",
-                            "description": "Mofo",
-                            "color": "#fff",
+                            "title": "Fire all employees",
+                            "description": "No budget",
+                            "color": "#ffffff",
                             "members": [
                                 {
-                                    "_id": "u101",
-                                    "fullName": "user1",
-                                    "imgSrc": "img/user/img1"
+                                    "_id": "hU2mFm7id4",
+                                    "fullName": "Admin",
+                                    "imgSrc": "img/user/hU2mFm7id4"
                                 }
                             ],
                             "labels": [
-                                101,
-                                102
+                                100
                             ],
-                            "createdAt": 1234567890,
+                            "createdAt": 1594975494703,
                             "by": {
-                                "_id": 100,
-                                "fullName": "user1",
-                                "imgSrc": "img/user/img1"
+                                "_id": "J5e2w8Wzjt",
+                                "fullName": "Tal Shachar",
+                                "imgSrc": "img/user/J5e2w8Wzjt"
                             },
-                            "comments": [
-                                {
-                                    "id": 100,
-                                    "txt": "Need to push this to next sprint",
-                                    "createdAt": 1234567890,
-                                    "by": {
-                                        "_id": "u101",
-                                        "fullName": "user1",
-                                        "imgSrc": "img/user/img1"
-                                    }
-                                }
-                            ],
-                            "checklists": [
-                                {
-                                    "id": 101,
-                                    "title": "Backend",
-                                    "items": [
-                                        {
-                                            "txt": "some to do",
-                                            "isDone": true
-                                        },
-                                        {
-                                            "txt": "some to do",
-                                            "isDone": false
-                                        }
-                                    ]
-                                }
-                            ],
-                            "attachments": [
-                                {
-                                    "id": 100,
-                                    "src": "https:/bla.blabla.com/shmulik.jpg",
-                                    "type": "img"
-                                },
-                                {
-                                    "id": 101,
-                                    "src": "https:/bla.blabla.com/",
-                                    "type": "link"
-                                },
-                                {
-                                    "id": 102,
-                                    "src": "https:/bla.blabla.com/",
-                                    "type": "video"
-                                }
-                            ]
+                            "comments": [],
+                            "checklists": [],
+                            "attachments": []
                         }
                     ]
                 },
                 {
                     "id": 101,
-                    "title": "QA",
-                    "color": "#fff",
+                    "title": "In Progress",
+                    "color": "#559955",
                     "tickets": [
                         {
                             "id": 102,
-                            "title": "Ticket 1 title",
-                            "description": "Mofo again",
-                            "color": "#fff",
+                            "title": "Make a cup of coffee",
+                            "description": "No coffee - not working",
+                            "color": "#bbaa99",
                             "members": [
                                 {
-                                    "_id": "100",
-                                    "fullName": "user1",
-                                    "imgSrc": "img/user/img1"
-                                },
-                                {
-                                    "_id": 101,
-                                    "fullName": "user2",
-                                    "imgSrc": "img/user/img2"
+                                    "_id": "hU2mFm7id4",
+                                    "fullName": "Admin",
+                                    "imgSrc": "img/user/hU2mFm7id4"
                                 }
                             ],
                             "labels": [
-                                101,
-                                102
+                                101
                             ],
-                            "createdAt": 1234567890,
+                            "createdAt": 1594979825580,
                             "by": {
-                                "_id": "u100",
-                                "fullName": "user1",
-                                "imgSrc": "img/user/img1"
+                                "_id": "hU2mFm7id4",
+                                "fullName": "Admin",
+                                "imgSrc": "img/user/hU2mFm7id4"
                             },
-                            "comments": [
-                                {
-                                    "id": 102,
-                                    "txt": "Need to push this to next sprint",
-                                    "createdAt": 1234567890,
-                                    "by": {
-                                        "_id": "u101",
-                                        "fullName": "user1",
-                                        "imgSrc": "img/user/img1"
-                                    }
-                                }
-                            ],
-                            "checklists": [
-                                {
-                                    "id": 100,
-                                    "title": "UX",
-                                    "items": [
-                                        {
-                                            "txt": "some to do",
-                                            "isDone": true
-                                        },
-                                        {
-                                            "txt": "some to do",
-                                            "isDone": false
-                                        }
-                                    ]
-                                },
-                                {
-                                    "id": 103,
-                                    "title": "Backend",
-                                    "items": [
-                                        {
-                                            "txt": "some to do",
-                                            "isDone": true
-                                        },
-                                        {
-                                            "txt": "some to do",
-                                            "isDone": false
-                                        }
-                                    ]
-                                }
-                            ],
-                            "attachments": [
-                                {
-                                    "id": 103,
-                                    "src": "https:/bla.blabla.com/shmulik.jpg",
-                                    "type": "img"
-                                },
-                                {
-                                    "id": 104,
-                                    "src": "https:/bla.blabla.com/",
-                                    "type": "link"
-                                },
-                                {
-                                    "id": 105,
-                                    "src": "https:/bla.blabla.com/",
-                                    "type": "video"
-                                }
-                            ]
+                            "comments": [],
+                            "checklists": [],
+                            "attachments": []
                         },
                         {
                             "id": 103,
-                            "title": "Testing",
-                            "description": "Mofo",
-                            "color": "#fff",
+                            "title": "FrontEnd CR",
+                            "description": "New features were added",
+                            "color": "#ffffff",
                             "members": [
                                 {
-                                    "_id": "u101",
-                                    "fullName": "user1",
-                                    "imgSrc": "img/user/img1"
+                                    "_id": "hU2mFm7id4",
+                                    "fullName": "Admin",
+                                    "imgSrc": "img/user/hU2mFm7id4"
                                 }
                             ],
-                            "labels": [
-                                101,
-                                102
-                            ],
-                            "createdAt": 1234567890,
+                            "labels": [],
+                            "createdAt": 1593480222334,
                             "by": {
-                                "_id": "u101",
-                                "fullName": "user1",
-                                "imgSrc": "img/user/img1"
+                                "_id": "hU2mFm7id4",
+                                "fullName": "Admin",
+                                "imgSrc": "img/user/hU2mFm7id4"
                             },
                             "comments": [],
                             "checklists": [],
