@@ -6,7 +6,7 @@
             "imgSrc": "img/user/img1",
             "email": "test@gmail.com",
             "password": "3g35gwefewf43f3fgf43f43f423f",
-            "type": "admin" 
+            "type": "admin"
         },
         {
             "_id": "u102",
@@ -14,7 +14,7 @@
             "imgSrc": "img/user/img2",
             "email": "tal@gmail.com",
             "password": "adfiunetoibounsdiucv45t",
-            "type": "user" 
+            "type": "user"
         }
     ],
     "board": [
@@ -22,12 +22,12 @@
             "_id": "qeovinerv",
             "title": "FrontEnd",
             "background": "#fff",
-            "nextId":{
-                "activities":101,
-                "labels":101,
-                "groups":102,
-                "tickets":104,
-                "attachments":106
+            "nextId": {
+                "activities": 101,
+                "labels": 101,
+                "groups": 102,
+                "tickets": 104,
+                "attachments": 106
             },
             "members": [
                 {
@@ -91,7 +91,7 @@
                             },
                             "comments": [
                                 {
-                                    "id":100,
+                                    "id": 100,
                                     "txt": "Need to push this to next sprint",
                                     "createdAt": 1234567890,
                                     "by": {
@@ -103,7 +103,7 @@
                             ],
                             "checklists": [
                                 {
-                                    "id":100,
+                                    "id": 100,
                                     "title": "UX",
                                     "items": [
                                         {
@@ -117,7 +117,7 @@
                                     ]
                                 },
                                 {
-                                    "id":101,
+                                    "id": 101,
                                     "title": "Backend",
                                     "items": [
                                         {
@@ -133,17 +133,17 @@
                             ],
                             "attachments": [
                                 {
-                                    "id":100,
+                                    "id": 100,
                                     "src": "https:/bla.blabla.com/shmulik.jpg",
                                     "type": "img"
                                 },
                                 {
-                                    "id":101,
+                                    "id": 101,
                                     "src": "https:/bla.blabla.com/",
                                     "type": "link"
                                 },
                                 {
-                                    "id":102,
+                                    "id": 102,
                                     "src": "https:/bla.blabla.com/",
                                     "type": "video"
                                 }
@@ -173,7 +173,7 @@
                             },
                             "comments": [
                                 {
-                                    "id":100,
+                                    "id": 100,
                                     "txt": "Need to push this to next sprint",
                                     "createdAt": 1234567890,
                                     "by": {
@@ -185,7 +185,7 @@
                             ],
                             "checklists": [
                                 {
-                                    "id":101,
+                                    "id": 101,
                                     "title": "Backend",
                                     "items": [
                                         {
@@ -201,17 +201,17 @@
                             ],
                             "attachments": [
                                 {
-                                    "id":100,
+                                    "id": 100,
                                     "src": "https:/bla.blabla.com/shmulik.jpg",
                                     "type": "img"
                                 },
                                 {
-                                    "id":101,
+                                    "id": 101,
                                     "src": "https:/bla.blabla.com/",
                                     "type": "link"
                                 },
                                 {
-                                    "id":102,
+                                    "id": 102,
                                     "src": "https:/bla.blabla.com/",
                                     "type": "video"
                                 }
@@ -253,7 +253,7 @@
                             },
                             "comments": [
                                 {
-                                    "id":102,
+                                    "id": 102,
                                     "txt": "Need to push this to next sprint",
                                     "createdAt": 1234567890,
                                     "by": {
@@ -265,7 +265,7 @@
                             ],
                             "checklists": [
                                 {
-                                    "id":100,
+                                    "id": 100,
                                     "title": "UX",
                                     "items": [
                                         {
@@ -279,7 +279,7 @@
                                     ]
                                 },
                                 {
-                                    "id":103,
+                                    "id": 103,
                                     "title": "Backend",
                                     "items": [
                                         {
@@ -295,17 +295,17 @@
                             ],
                             "attachments": [
                                 {
-                                    "id":103,
+                                    "id": 103,
                                     "src": "https:/bla.blabla.com/shmulik.jpg",
                                     "type": "img"
                                 },
                                 {
-                                    "id":104,
+                                    "id": 104,
                                     "src": "https:/bla.blabla.com/",
                                     "type": "link"
                                 },
                                 {
-                                    "id":105,
+                                    "id": 105,
                                     "src": "https:/bla.blabla.com/",
                                     "type": "video"
                                 }
@@ -333,8 +333,7 @@
                                 "fullName": "user1",
                                 "imgSrc": "img/user/img1"
                             },
-                            "comments": [
-                            ],
+                            "comments": [],
                             "checklists": [],
                             "attachments": []
                         }
