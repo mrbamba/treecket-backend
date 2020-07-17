@@ -1,17 +1,17 @@
 {
   "user": [
     {
-      "_id": "hU2mFm7id4",
+      "_id": "5f0b191cd29651a6aa704f5a",
       "fullName": "Admin",
-      "imgSrc": "img/user/hU2mFm7id4",
+      "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png",
       "email": "admin@gmail.com",
       "password": "admin123",
       "type": "admin"
     },
     {
-      "_id": "J5e2w8Wzjt",
+      "_id": "5f0b191cd29651a6aa704f5b",
       "fullName": "Tal Shachar",
-      "imgSrc": "img/user/J5e2w8Wzjt",
+      "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png",
       "email": "tal@gmail.com",
       "password": "123123",
       "type": "user"
@@ -19,111 +19,104 @@
   ],
   "board": [
     {
-      "_id": "b100",
+      "_id": "507f191e810c19729de860ea",
       "title": "Google - Waze R&D Team",
       "background": "#eeff55",
-      "nextId": {
-        "activities": 101,
-        "labels": 102,
-        "groups": 102,
-        "tickets": 104,
-        "attachments": 103
-      },
       "members": [
         {
-          "_id": "hU2mFm7id4",
+          "_id": "5f0b191cd29651a6aa704f5a",
           "fullName": "Admin",
-          "imgSrc": "img/user/hU2mFm7id4"
+          "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
         },
         {
-          "_id": "J5e2w8Wzjt",
+          "_id": "5f0b191cd29651a6aa704f5b",
           "fullName": "Tal Shachar",
-          "imgSrc": "img/user/J5e2w8Wzjt"
+          "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
         }
       ],
       "labels": [
         {
-          "id": 100,
+          "id": "KCQ6IC38Y51NK",
           "color": "#44aa44",
           "title": "UX"
         },
         {
-          "id": 101,
+          "id": "KCQ6JOHPJF90N",
           "color": "#ee7777",
           "title": "Bug"
         }
       ],
       "activities": [
         {
-          "id": 100,
+          "id": "KCQ6LFXR9LRIB",
           "txt": "Tal Shachar updated ticket title to Create logo",
           "createdAt": 1594975136198,
-          "ticketId": "4tbg2354f",
+          "ticketId": "KCQ7368UH3E13",
           "by": {
-            "_id": "J5e2w8Wzjt",
+            "_id": "5f0b191cd29651a6aa704f5b",
             "fullName": "Tal Shachar",
-            "imgSrc": "img/user/J5e2w8Wzjt"
+            "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
           }
         }
       ],
       "groups": [
         {
-          "id": 100,
+          "id": "KCQ70CQJWWIWO",
           "title": "Backlog",
           "color": "#eeeeee",
           "tickets": [
             {
-              "id": 100,
+              "id": "KCQ7368UH3E13",
               "title": "Create logo",
               "description": "Create a minimal logo (SVG & PNG)",
               "color": "#ffffff",
               "members": [
                 {
-                  "_id": "hU2mFm7id4",
+                  "_id": "5f0b191cd29651a6aa704f5a",
                   "fullName": "Admin",
-                  "imgSrc": "img/user/hU2mFm7id4"
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
                 },
                 {
-                  "_id": "J5e2w8Wzjt",
+                  "_id": "5f0b191cd29651a6aa704f5b",
                   "fullName": "Tal Shachar",
-                  "imgSrc": "img/user/J5e2w8Wzjt"
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
                 }
               ],
               "labels": [
-                100,
-                101
+                "KCQ6IC38Y51NK",
+                "KCQ6JOHPJF90N"
               ],
               "createdAt": 1594975494703,
               "by": {
-                "_id": "J5e2w8Wzjt",
+                "_id": "5f0b191cd29651a6aa704f5b",
                 "fullName": "Tal Shachar",
-                "imgSrc": "img/user/J5e2w8Wzjt"
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
               },
               "comments": [
                 {
-                  "id": 100,
+                  "id": "KCQ763MYPBNSJ",
                   "txt": "Push it to the next sprint",
                   "createdAt": 1594978259287,
                   "by": {
-                    "_id": "hU2mFm7id4",
+                    "_id": "5f0b191cd29651a6aa704f5a",
                     "fullName": "Admin",
-                    "imgSrc": "img/user/hU2mFm7id4"
+                    "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
                   }
                 },
                 {
-                  "id": 100,
+                  "id": "KCQ76GS5FUZH8",
                   "txt": "Gotcha",
                   "createdAt": 1594979419696,
                   "by": {
-                    "_id": "J5e2w8Wzjt",
+                    "_id": "5f0b191cd29651a6aa704f5b",
                     "fullName": "Tal Shachar",
-                    "imgSrc": "img/user/J5e2w8Wzjt"
+                    "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
                   }
                 }
               ],
               "checklists": [
                 {
-                  "id": 100,
+                  "id": "KCQ76X32AWH1R",
                   "title": "Logo Settings",
                   "items": [
                     {
@@ -137,7 +130,7 @@
                   ]
                 },
                 {
-                  "id": 101,
+                  "id": "KCQ77AO31D7U7",
                   "title": "Final Tasks",
                   "items": [
                     {
@@ -153,42 +146,42 @@
               ],
               "attachments": [
                 {
-                  "id": 100,
+                  "id": "KCQ77K90IBY9S",
                   "src": "https:/bla.blabla.com/shmulik.jpg",
                   "type": "img"
                 },
                 {
-                  "id": 101,
+                  "id": "KCQ77RVDFBH7J",
                   "src": "https:/bla.blabla.com/",
                   "type": "link"
                 },
                 {
-                  "id": 102,
+                  "id": "KCQ782U3VMJUQ",
                   "src": "https:/bla.blabla.com/",
                   "type": "video"
                 }
               ]
             },
             {
-              "id": 101,
+              "id": "KCQ78GRQSEFXA",
               "title": "Fire all employees",
               "description": "No budget",
               "color": "#ffffff",
               "members": [
                 {
-                  "_id": "hU2mFm7id4",
+                  "_id": "5f0b191cd29651a6aa704f5a",
                   "fullName": "Admin",
-                  "imgSrc": "img/user/hU2mFm7id4"
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
                 }
               ],
               "labels": [
-                100
+                "KCQ6IC38Y51NK"
               ],
               "createdAt": 1594975494703,
               "by": {
-                "_id": "J5e2w8Wzjt",
+                "_id": "5f0b191cd29651a6aa704f5b",
                 "fullName": "Tal Shachar",
-                "imgSrc": "img/user/J5e2w8Wzjt"
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
               },
               "comments": [],
               "checklists": [],
@@ -197,53 +190,53 @@
           ]
         },
         {
-          "id": 101,
+          "id": "KCQ70XY2PIRXH",
           "title": "In Progress",
           "color": "#559955",
           "tickets": [
             {
-              "id": 102,
+              "id": "KCQ78STY6ZONO",
               "title": "Make a cup of coffee",
               "description": "No coffee - not working",
               "color": "#bbaa99",
               "members": [
                 {
-                  "_id": "hU2mFm7id4",
+                  "_id": "5f0b191cd29651a6aa704f5a",
                   "fullName": "Admin",
-                  "imgSrc": "img/user/hU2mFm7id4"
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
                 }
               ],
               "labels": [
-                101
+                "KCQ6JOHPJF90N"
               ],
               "createdAt": 1594979825580,
               "by": {
-                "_id": "hU2mFm7id4",
+                "_id": "5f0b191cd29651a6aa704f5a",
                 "fullName": "Admin",
-                "imgSrc": "img/user/hU2mFm7id4"
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
               },
               "comments": [],
               "checklists": [],
               "attachments": []
             },
             {
-              "id": 103,
+              "id": "KCQ794O8JL6X7",
               "title": "FrontEnd CR",
               "description": "New features were added",
               "color": "#ffffff",
               "members": [
                 {
-                  "_id": "hU2mFm7id4",
+                  "_id": "5f0b191cd29651a6aa704f5a",
                   "fullName": "Admin",
-                  "imgSrc": "img/user/hU2mFm7id4"
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
                 }
               ],
               "labels": [],
               "createdAt": 1593480222334,
               "by": {
-                "_id": "hU2mFm7id4",
+                "_id": "5f0b191cd29651a6aa704f5a",
                 "fullName": "Admin",
-                "imgSrc": "img/user/hU2mFm7id4"
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
               },
               "comments": [],
               "checklists": [],
