@@ -3,10 +3,18 @@
         {
             "_id": "u101",
             "fullName": "User 1",
-            "imgSrc": "img//user/img1",
+            "imgSrc": "img/user/img1",
             "email": "test@gmail.com",
             "password": "3g35gwefewf43f3fgf43f43f423f",
-            "type": "admin"
+            "type": "admin" 
+        },
+        {
+            "_id": "u102",
+            "fullName": "Tal Shachar",
+            "imgSrc": "img/user/img2",
+            "email": "tal@gmail.com",
+            "password": "adfiunetoibounsdiucv45t",
+            "type": "user" 
         }
     ],
     "board": [
@@ -15,16 +23,17 @@
             "title": "FrontEnd",
             "background": "#fff",
             "nextId":{
-                "activities":"a101",
-                "labels":"l101",
-                "groups":"g101",
-                "tickets":"t101"
+                "activities":101,
+                "labels":101,
+                "groups":102,
+                "tickets":104,
+                "attachments":106
             },
             "members": [
                 {
                     "_id": "dfverwli3g43",
                     "fullName": "user2",
-                    "imgSrc": "img//user/img2"
+                    "imgSrc": "img/user/img2"
                 }
             ],
             "labels": [
@@ -43,7 +52,7 @@
                     "by": {
                         "_id": "u101",
                         "fullName": "user1",
-                        "imgSrc": "img//user/img1"
+                        "imgSrc": "img/user/img1"
                     }
                 }
             ],
@@ -55,19 +64,19 @@
                     "tickets": [
                         {
                             "id": 100,
-                            "title": "",
-                            "description": "",
+                            "title": "Ticket 1 title",
+                            "description": "Mofo again",
                             "color": "#fff",
                             "members": [
                                 {
-                                    "_id": 100,
+                                    "_id": "100",
                                     "fullName": "user1",
-                                    "imgSrc": "img//user/img1"
+                                    "imgSrc": "img/user/img1"
                                 },
                                 {
                                     "_id": 101,
                                     "fullName": "user2",
-                                    "imgSrc": "img//user/img2"
+                                    "imgSrc": "img/user/img2"
                                 }
                             ],
                             "labels": [
@@ -78,7 +87,7 @@
                             "by": {
                                 "_id": 100,
                                 "fullName": "user1",
-                                "imgSrc": "img//user/img1"
+                                "imgSrc": "img/user/img1"
                             },
                             "comments": [
                                 {
@@ -88,7 +97,7 @@
                                     "by": {
                                         "_id": "u101",
                                         "fullName": "user1",
-                                        "imgSrc": "img//user/img1"
+                                        "imgSrc": "img/user/img1"
                                     }
                                 }
                             ],
@@ -125,20 +134,209 @@
                             "attachments": [
                                 {
                                     "id":100,
-                                    "src": "https://bla.blabla.com/shmulik.jpg",
+                                    "src": "https:/bla.blabla.com/shmulik.jpg",
                                     "type": "img"
                                 },
                                 {
                                     "id":101,
-                                    "src": "https://bla.blabla.com/",
+                                    "src": "https:/bla.blabla.com/",
                                     "type": "link"
                                 },
                                 {
                                     "id":102,
-                                    "src": "https://bla.blabla.com/",
+                                    "src": "https:/bla.blabla.com/",
                                     "type": "video"
                                 }
                             ]
+                        },
+                        {
+                            "id": 101,
+                            "title": "Testing",
+                            "description": "Mofo",
+                            "color": "#fff",
+                            "members": [
+                                {
+                                    "_id": "u101",
+                                    "fullName": "user1",
+                                    "imgSrc": "img/user/img1"
+                                }
+                            ],
+                            "labels": [
+                                101,
+                                102
+                            ],
+                            "createdAt": 1234567890,
+                            "by": {
+                                "_id": 100,
+                                "fullName": "user1",
+                                "imgSrc": "img/user/img1"
+                            },
+                            "comments": [
+                                {
+                                    "id":100,
+                                    "txt": "Need to push this to next sprint",
+                                    "createdAt": 1234567890,
+                                    "by": {
+                                        "_id": "u101",
+                                        "fullName": "user1",
+                                        "imgSrc": "img/user/img1"
+                                    }
+                                }
+                            ],
+                            "checklists": [
+                                {
+                                    "id":101,
+                                    "title": "Backend",
+                                    "items": [
+                                        {
+                                            "txt": "some to do",
+                                            "isDone": true
+                                        },
+                                        {
+                                            "txt": "some to do",
+                                            "isDone": false
+                                        }
+                                    ]
+                                }
+                            ],
+                            "attachments": [
+                                {
+                                    "id":100,
+                                    "src": "https:/bla.blabla.com/shmulik.jpg",
+                                    "type": "img"
+                                },
+                                {
+                                    "id":101,
+                                    "src": "https:/bla.blabla.com/",
+                                    "type": "link"
+                                },
+                                {
+                                    "id":102,
+                                    "src": "https:/bla.blabla.com/",
+                                    "type": "video"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 101,
+                    "name": "QA",
+                    "color": "#fff",
+                    "tickets": [
+                        {
+                            "id": 102,
+                            "title": "Ticket 1 title",
+                            "description": "Mofo again",
+                            "color": "#fff",
+                            "members": [
+                                {
+                                    "_id": "100",
+                                    "fullName": "user1",
+                                    "imgSrc": "img/user/img1"
+                                },
+                                {
+                                    "_id": 101,
+                                    "fullName": "user2",
+                                    "imgSrc": "img/user/img2"
+                                }
+                            ],
+                            "labels": [
+                                101,
+                                102
+                            ],
+                            "createdAt": 1234567890,
+                            "by": {
+                                "_id": "u100",
+                                "fullName": "user1",
+                                "imgSrc": "img/user/img1"
+                            },
+                            "comments": [
+                                {
+                                    "id":102,
+                                    "txt": "Need to push this to next sprint",
+                                    "createdAt": 1234567890,
+                                    "by": {
+                                        "_id": "u101",
+                                        "fullName": "user1",
+                                        "imgSrc": "img/user/img1"
+                                    }
+                                }
+                            ],
+                            "checklists": [
+                                {
+                                    "id":100,
+                                    "title": "UX",
+                                    "items": [
+                                        {
+                                            "txt": "some to do",
+                                            "isDone": true
+                                        },
+                                        {
+                                            "txt": "some to do",
+                                            "isDone": false
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id":103,
+                                    "title": "Backend",
+                                    "items": [
+                                        {
+                                            "txt": "some to do",
+                                            "isDone": true
+                                        },
+                                        {
+                                            "txt": "some to do",
+                                            "isDone": false
+                                        }
+                                    ]
+                                }
+                            ],
+                            "attachments": [
+                                {
+                                    "id":103,
+                                    "src": "https:/bla.blabla.com/shmulik.jpg",
+                                    "type": "img"
+                                },
+                                {
+                                    "id":104,
+                                    "src": "https:/bla.blabla.com/",
+                                    "type": "link"
+                                },
+                                {
+                                    "id":105,
+                                    "src": "https:/bla.blabla.com/",
+                                    "type": "video"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 103,
+                            "title": "Testing",
+                            "description": "Mofo",
+                            "color": "#fff",
+                            "members": [
+                                {
+                                    "_id": "u101",
+                                    "fullName": "user1",
+                                    "imgSrc": "img/user/img1"
+                                }
+                            ],
+                            "labels": [
+                                101,
+                                102
+                            ],
+                            "createdAt": 1234567890,
+                            "by": {
+                                "_id": "u101",
+                                "fullName": "user1",
+                                "imgSrc": "img/user/img1"
+                            },
+                            "comments": [
+                            ],
+                            "checklists": [],
+                            "attachments": []
                         }
                     ]
                 }
