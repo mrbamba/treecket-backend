@@ -59,7 +59,7 @@
             "groups": [
                 {
                     "id": 100,
-                    "name": "QA",
+                    "title": "QA",
                     "color": "#fff",
                     "tickets": [
                         {
@@ -221,7 +221,7 @@
                 },
                 {
                     "id": 101,
-                    "name": "QA",
+                    "title": "QA",
                     "color": "#fff",
                     "tickets": [
                         {
