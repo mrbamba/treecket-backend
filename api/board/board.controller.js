@@ -46,7 +46,6 @@ async function updateBoard(req,res){
     try{
         let board=await boardService.update(req.body);
         res.send(board);
-        console.log('back to updateBoard on controller',board)
 
     }catch(err){
         logger.error('Cannot update board',err);

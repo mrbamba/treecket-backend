@@ -23,7 +23,6 @@ async function query(filterBy) {
 }
 
 async function getById(boardId) {
-    console.log('got to getById',{boardId});
 
     const collection = await dbService.getCollection('board');
 
@@ -47,7 +46,6 @@ async function remove(boardId) {
 }
 
 async function update(board) {
-    console.log('got to update on board.service')
     board._id = ObjectId(board._id);
     const collection = await dbService.getCollection('board');
 
