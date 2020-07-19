@@ -1,250 +1,348 @@
 {
-    "user": [
-      {
-        "_id": "5f0b191cd29651a6aa704f5a",
-        "fullName": "Admin",
-        "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png",
-        "email": "admin@gmail.com",
-        "password": "admin123",
-        "type": "admin"
-      },
-      {
-        "_id": "5f0b191cd29651a6aa704f5b",
-        "fullName": "Tal Shachar",
-        "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png",
-        "email": "tal@gmail.com",
-        "password": "123123",
-        "type": "user"
-      }
-    ],
-    "board": [
-      {
-        "_id": "507f191e810c19729de860ea",
-        "title": "Treecket - R&D Team",
-        "background": "url(https://images.hdqwalls.com/wallpapers/minimal-mountains-landscape-4k-az.jpg)",
-        "members": [
-          {
-            "_id": "5f0b191cd29651a6aa704f5a",
-            "fullName": "Admin",
-            "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-          },
-          {
+  "user": [
+    {
+      "_id": "5f0b191cd29651a6aa704f5a",
+      "fullName": "Admin",
+      "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "type": "admin"
+    },
+    {
+      "_id": "5f0b191cd29651a6aa704f5b",
+      "fullName": "Tal Shachar",
+      "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png",
+      "email": "tal@gmail.com",
+      "password": "123123",
+      "type": "user"
+    }
+  ],
+  "board": [
+    {
+      "_id": "507f191e810c19729de860ea",
+      "title": "Treecket - R&D Team",
+      "background": "url(https://images.hdqwalls.com/wallpapers/minimal-mountains-landscape-4k-az.jpg)",
+      "members": [
+        {
+          "_id": "5f0b191cd29651a6aa704f5a",
+          "fullName": "Admin",
+          "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
+        },
+        {
+          "_id": "5f0b191cd29651a6aa704f5b",
+          "fullName": "Tal Shachar",
+          "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
+        }
+      ],
+      "labels": [
+        {
+          "id": "KCQ6IC38Y51NK",
+          "color": "#44aa44",
+          "title": "UX"
+        },
+        {
+          "id": "KCQ6JOHPJF90N",
+          "color": "#ee7777",
+          "title": "Bug"
+        }
+      ],
+      "activities": [
+        {
+          "id": "KCQ6LFXR9LRIB",
+          "txt": "Tal Shachar updated ticket title to Create logo",
+          "createdAt": 1594975136198,
+          "ticketId": "KCQ7368UH3E13",
+          "by": {
             "_id": "5f0b191cd29651a6aa704f5b",
             "fullName": "Tal Shachar",
             "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
           }
-        ],
-        "labels": [
-          {
-            "id": "KCQ6IC38Y51NK",
-            "color": "#44aa44",
-            "title": "UX"
-          },
-          {
-            "id": "KCQ6JOHPJF90N",
-            "color": "#ee7777",
-            "title": "Bug"
-          }
-        ],
-        "activities": [
-          {
-            "id": "KCQ6LFXR9LRIB",
-            "txt": "Tal Shachar updated ticket title to Create logo",
-            "createdAt": 1594975136198,
-            "ticketId": "KCQ7368UH3E13",
-            "by": {
-              "_id": "5f0b191cd29651a6aa704f5b",
-              "fullName": "Tal Shachar",
-              "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
-            }
-          }
-        ],
-        "groups": [
-          {
-            "id": "KCQ70CQJWWIWO",
-            "title": "Backlog",
-            "color": "#eeeeee",
-            "tickets": [
-              {
-                "id": "KCQ7368UH3E13",
-                "title": "Create logo",
-                "description": "Create a minimal logo (SVG & PNG)",
-                "color": "#ffffff",
-                "members": [
-                  {
+        }
+      ],
+      "groups": [
+        {
+          "id": "KCQ70CQJWWIWO",
+          "title": "To Do",
+          "color": "#eeeeee",
+          "tickets": [
+            {
+              "id": "KCQ7368UH3E13",
+              "title": "Create logo",
+              "description": "Create a minimal logo (SVG & PNG)",
+              "color": "#ffffff",
+              "members": [
+                {
+                  "_id": "5f0b191cd29651a6aa704f5a",
+                  "fullName": "Admin",
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
+                },
+                {
+                  "_id": "5f0b191cd29651a6aa704f5b",
+                  "fullName": "Tal Shachar",
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
+                }
+              ],
+              "labels": [
+                "KCQ6IC38Y51NK",
+                "KCQ6JOHPJF90N"
+              ],
+              "createdAt": 1594975494703,
+              "by": {
+                "_id": "5f0b191cd29651a6aa704f5b",
+                "fullName": "Tal Shachar",
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
+              },
+              "comments": [
+                {
+                  "id": "KCQ763MYPBNSJ",
+                  "txt": "Push it to the next sprint",
+                  "createdAt": 1594978259287,
+                  "by": {
                     "_id": "5f0b191cd29651a6aa704f5a",
                     "fullName": "Admin",
                     "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-                  },
-                  {
+                  }
+                },
+                {
+                  "id": "KCQ76GS5FUZH8",
+                  "txt": "Gotcha",
+                  "createdAt": 1594979419696,
+                  "by": {
                     "_id": "5f0b191cd29651a6aa704f5b",
                     "fullName": "Tal Shachar",
                     "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
                   }
-                ],
-                "labels": [
-                  "KCQ6IC38Y51NK",
-                  "KCQ6JOHPJF90N"
-                ],
-                "createdAt": 1594975494703,
-                "by": {
-                  "_id": "5f0b191cd29651a6aa704f5b",
-                  "fullName": "Tal Shachar",
-                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
-                },
-                "comments": [
-                  {
-                    "id": "KCQ763MYPBNSJ",
-                    "txt": "Push it to the next sprint",
-                    "createdAt": 1594978259287,
-                    "by": {
-                      "_id": "5f0b191cd29651a6aa704f5a",
-                      "fullName": "Admin",
-                      "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
+                }
+              ],
+              "checklists": [
+                {
+                  "id": "KCQ76X32AWH1R",
+                  "title": "Logo Settings",
+                  "items": [
+                    {
+                      "txt": "Learn Photoshop exporting to SVG",
+                      "isDone": true
+                    },
+                    {
+                      "txt": "Pick a font",
+                      "isDone": false
                     }
-                  },
-                  {
-                    "id": "KCQ76GS5FUZH8",
-                    "txt": "Gotcha",
-                    "createdAt": 1594979419696,
-                    "by": {
-                      "_id": "5f0b191cd29651a6aa704f5b",
-                      "fullName": "Tal Shachar",
-                      "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
-                    }
-                  }
-                ],
-                "checklists": [
-                  {
-                    "id": "KCQ76X32AWH1R",
-                    "title": "Logo Settings",
-                    "items": [
-                      {
-                        "txt": "Learn Photoshop exporting to SVG",
-                        "isDone": true
-                      },
-                      {
-                        "txt": "Pick a font",
-                        "isDone": false
-                      }
-                    ]
-                  },
-                  {
-                    "id": "KCQ77AO31D7U7",
-                    "title": "Final Tasks",
-                    "items": [
-                      {
-                        "txt": "Show the logo to 50 people",
-                        "isDone": false
-                      },
-                      {
-                        "txt": "Add the logo to the app",
-                        "isDone": false
-                      }
-                    ]
-                  }
-                ],
-                "attachments": [
-                  {
-                    "id": "KCQ77K90IBY9S",
-                    "src": "https:/bla.blabla.com/shmulik.jpg",
-                    "type": "img"
-                  },
-                  {
-                    "id": "KCQ77RVDFBH7J",
-                    "src": "https:/bla.blabla.com/",
-                    "type": "link"
-                  },
-                  {
-                    "id": "KCQ782U3VMJUQ",
-                    "src": "https:/bla.blabla.com/",
-                    "type": "video"
-                  }
-                ]
-              },
-              {
-                "id": "KCQ78GRQSEFXA",
-                "title": "Fire all employees",
-                "description": "No budget",
-                "color": "#ffffff",
-                "members": [
-                  {
-                    "_id": "5f0b191cd29651a6aa704f5a",
-                    "fullName": "Admin",
-                    "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-                  }
-                ],
-                "labels": [
-                  "KCQ6IC38Y51NK"
-                ],
-                "createdAt": 1594975494703,
-                "by": {
-                  "_id": "5f0b191cd29651a6aa704f5b",
-                  "fullName": "Tal Shachar",
-                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
+                  ]
                 },
-                "comments": [],
-                "checklists": [],
-                "attachments": []
-              }
-            ]
-          },
-          {
-            "id": "KCQ70XY2PIRXH",
-            "title": "In Progress",
-            "color": "#559955",
-            "tickets": [
-              {
-                "id": "KCQ78STY6ZONO",
-                "title": "Make a cup of coffee",
-                "description": "No coffee - not working",
-                "color": "#bbaa99",
-                "members": [
-                  {
-                    "_id": "5f0b191cd29651a6aa704f5a",
-                    "fullName": "Admin",
-                    "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-                  }
-                ],
-                "labels": [
-                  "KCQ6JOHPJF90N"
-                ],
-                "createdAt": 1594979825580,
-                "by": {
+                {
+                  "id": "KCQ77AO31D7U7",
+                  "title": "Final Tasks",
+                  "items": [
+                    {
+                      "txt": "Show the logo to 50 people",
+                      "isDone": false
+                    },
+                    {
+                      "txt": "Add the logo to the app",
+                      "isDone": false
+                    }
+                  ]
+                }
+              ],
+              "attachments": [
+                {
+                  "id": "KCQ77K90IBY9S",
+                  "src": "https:/bla.blabla.com/shmulik.jpg",
+                  "type": "img"
+                },
+                {
+                  "id": "KCQ77RVDFBH7J",
+                  "src": "https:/bla.blabla.com/",
+                  "type": "link"
+                },
+                {
+                  "id": "KCQ782U3VMJUQ",
+                  "src": "https:/bla.blabla.com/",
+                  "type": "video"
+                }
+              ]
+            },
+            {
+              "id": "KCQ78GRQSEFXA",
+              "title": "Fire all employees",
+              "description": "No budget",
+              "color": "#ffffff",
+              "members": [
+                {
                   "_id": "5f0b191cd29651a6aa704f5a",
                   "fullName": "Admin",
                   "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-                },
-                "comments": [],
-                "checklists": [],
-                "attachments": []
+                }
+              ],
+              "labels": [
+                "KCQ6IC38Y51NK"
+              ],
+              "createdAt": 1594975494703,
+              "by": {
+                "_id": "5f0b191cd29651a6aa704f5b",
+                "fullName": "Tal Shachar",
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5b.png"
               },
-              {
-                "id": "KCQ794O8JL6X7",
-                "title": "FrontEnd CR",
-                "description": "New features were added",
-                "color": "#ffffff",
-                "members": [
-                  {
-                    "_id": "5f0b191cd29651a6aa704f5a",
-                    "fullName": "Admin",
-                    "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-                  }
-                ],
-                "labels": [],
-                "createdAt": 1593480222334,
-                "by": {
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXB4HP0B4NI",
+              "title": "Setup Backend server",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153669245,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXDA32YDB4T",
+              "title": "Setup MongoDB",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153769806,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXE1X06XVES",
+              "title": "Features, Features, Features",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153805876,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "id": "KCQ70XY2PIRXH",
+          "title": "In Progress",
+          "color": "#559955",
+          "tickets": [
+            {
+              "id": "KCQ78STY6ZONO",
+              "title": "Make a cup of coffee",
+              "description": "No coffee - not working",
+              "color": "#bbaa99",
+              "members": [
+                {
                   "_id": "5f0b191cd29651a6aa704f5a",
                   "fullName": "Admin",
                   "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
-                },
-                "comments": [],
-                "checklists": [],
-                "attachments": []
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+                }
+              ],
+              "labels": [
+                "KCQ6JOHPJF90N"
+              ],
+              "createdAt": 1594979825580,
+              "by": {
+                "_id": "5f0b191cd29651a6aa704f5a",
+                "fullName": "Admin",
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
+              },
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCQ794O8JL6X7",
+              "title": "FrontEnd CR",
+              "description": "New features were added",
+              "color": "#ffffff",
+              "members": [
+                {
+                  "_id": "5f0b191cd29651a6aa704f5a",
+                  "fullName": "Admin",
+                  "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
+                }
+              ],
+              "labels": [],
+              "createdAt": 1593480222334,
+              "by": {
+                "_id": "5f0b191cd29651a6aa704f5a",
+                "fullName": "Admin",
+                "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
+              },
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSX9MFXTBE6O",
+              "title": "Discuss vesting with emplyees",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153599197,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXARKGWCBPG",
+              "title": "Have Asaf give us his input",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153652496,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "id": "KCSX5187SJVAS",
+          "title": "Done",
+          "color": "#eeeeee",
+          "tickets": [
+            {
+              "id": "KCSX7PR553B3P",
+              "title": "Initial design",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153510177,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSX7WDJ3SRKA",
+              "title": "Board DND",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153518759,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
