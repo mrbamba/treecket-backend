@@ -343,51 +343,6 @@
           ]
         }
       ]
-    },
-    {
-      "_id": "KCSZCRHLNFOCY",
-      "title": "test board",
-      "background": "#72eedd",
-      "members": [],
-      "labels": [
-        {
-          "id": "KCSZCRHL5VEFH",
-          "color": "#44aa44",
-          "title": ""
-        },
-        {
-          "id": "KCSZCRHLNNGGT",
-          "color": "#ee7777",
-          "title": ""
-        }
-      ],
-      "activities": [],
-      "groups": [
-        {
-          "id": "KCSZCRHL73PNB",
-          "title": "To do",
-          "color": "#eeeeee",
-          "tickets": []
-        },
-        {
-          "id": "KCSZCRHLSNMAE",
-          "title": "In Progress",
-          "color": "#eeeeee",
-          "tickets": []
-        },
-        {
-          "id": "KCSZCRHL7PEC1",
-          "title": "Done",
-          "color": "#eeeeee",
-          "tickets": []
-        },
-        {
-          "id": "KCSZCWTSVKW9N",
-          "title": "testing",
-          "color": "#eeeeee",
-          "tickets": []
-        }
-      ]
     }
   ]
 }
