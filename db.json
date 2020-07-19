@@ -62,7 +62,7 @@
       "groups": [
         {
           "id": "KCQ70CQJWWIWO",
-          "title": "Backlog",
+          "title": "To Do",
           "color": "#eeeeee",
           "tickets": [
             {
@@ -186,6 +186,45 @@
               "comments": [],
               "checklists": [],
               "attachments": []
+            },
+            {
+              "id": "KCSXB4HP0B4NI",
+              "title": "Setup Backend server",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153669245,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXDA32YDB4T",
+              "title": "Setup MongoDB",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153769806,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXE1X06XVES",
+              "title": "Features, Features, Features",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153805876,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
             }
           ]
         },
@@ -238,6 +277,65 @@
                 "fullName": "Admin",
                 "imgSrc": "img/user/5f0b191cd29651a6aa704f5a.png"
               },
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSX9MFXTBE6O",
+              "title": "Discuss vesting with emplyees",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153599197,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSXARKGWCBPG",
+              "title": "Have Asaf give us his input",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153652496,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "id": "KCSX5187SJVAS",
+          "title": "Done",
+          "color": "#eeeeee",
+          "tickets": [
+            {
+              "id": "KCSX7PR553B3P",
+              "title": "Initial design",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153510177,
+              "by": {},
+              "comments": [],
+              "checklists": [],
+              "attachments": []
+            },
+            {
+              "id": "KCSX7WDJ3SRKA",
+              "title": "Board DND",
+              "description": "",
+              "color": "#fff",
+              "members": [],
+              "labels": [],
+              "createdAt": 1595153518759,
+              "by": {},
               "comments": [],
               "checklists": [],
               "attachments": []
