@@ -1,1 +1,1 @@
-a production ready server including logger
+Treecket Backend server, built on Node JS with express
