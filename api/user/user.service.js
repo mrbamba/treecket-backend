@@ -91,13 +91,15 @@ async function add(user) {
 }
 
 function _buildCriteria(filterBy) {
+    console.log('User filterBy',filterBy);
     const criteria = {};
     if (filterBy.txt) {
         criteria.fullName = filterBy.txt
+
     }
-    if (filterBy.minBalance) {
-        criteria.balance = {$gte : +filterBy.minBalance}
-    }
+    // if (filterBy.minBalance) {
+    //     criteria.balance = {$gte : +filterBy.minBalance}
+    // }
     return criteria;
 }
 
