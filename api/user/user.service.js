@@ -44,7 +44,6 @@ async function getByEmail(email) {
     const collection = await dbService.getCollection('user')
     try {
         const user = await collection.findOne({ email })
-        delete user.password
 
         return user
     } catch (err) {
