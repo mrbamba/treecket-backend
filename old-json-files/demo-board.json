@@ -1,0 +1,1061 @@
+{
+    "title" : "Clash of Smash R&D",
+    "background" : "url(https://res.cloudinary.com/dkdsymsli/image/upload/v1595784408/vlyweeydsdsmvarf2pto.jpg) center / cover",
+    "createdAt" : 1595881064344.0,
+    "members" : [ 
+        {
+            "_id" : "5f1611b3afda48c98cae46a0",
+            "fullName" : "Dan Haski",
+            "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg",
+            "type" : "user"
+        }
+    ],
+    "labels" : [ 
+        {
+            "id" : "KD4YDQ54L7N9V",
+            "color" : "#61bd4f",
+            "title" : "UX"
+        }, 
+        {
+            "id" : "KD4YDQ543Q5U4",
+            "color" : "#F2D600",
+            "title" : "Design"
+        }, 
+        {
+            "id" : "KD4YDQ54CULER",
+            "color" : "#FF9F1A",
+            "title" : "PR2"
+        }, 
+        {
+            "id" : "KD4YDQ54TFCM7",
+            "color" : "#EB5A46",
+            "title" : "PR1"
+        }, 
+        {
+            "id" : "KD4YDQ54WLWD7",
+            "color" : "#C377E0",
+            "title" : "Frontend"
+        }, 
+        {
+            "id" : "KD4YDQ54CVSW1",
+            "color" : "#0079BF",
+            "title" : "Backend"
+        }
+    ],
+    "activities" : [ 
+        {
+            "id" : "KD506JG1QEGI9",
+            "txt" : "Changed the cover on Get ready for the summer vacation!",
+            "createdAt" : 1595884088305.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD505Y5CWCIF4",
+            "txt" : "Deleted attachment https://lh3.googleusercontent.com/proxy/7xZv9cO8gcUXC28mRYF007cZxrBVUhbPbBKy5uO8LxJIJCF89iym28KugdWvBxXLb2tPvAHg9ao27ZpBFdewoFBqM8TTgJ7Mahm-ab4PKqK_193u7XcBBQ on Get ready for the summer vacation!",
+            "createdAt" : 1595884060704.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD501940QLNA4",
+            "txt" : "Deleted attachment https://in.bgu.ac.il/en/bidr/Site%20Assets/Pages/events/Summer%20Vacation%202019/download%20(1).jpeg on Get ready for the summer vacation!",
+            "createdAt" : 1595883841632.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50106GWZDYE",
+            "txt" : "Deleted attachment https://in.bgu.ac.il/en/bidr/Site%20Assets/Pages/events/Summer%20Vacation%202019/download%20(1).jpeg on Get ready for the summer vacation!",
+            "createdAt" : 1595883830056.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD500MEY8F4PP",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595883812218.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZXXC4Q6308",
+            "txt" : "Added Dan Haski to board",
+            "createdAt" : 1595883686404.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZQ5W1BPQVA",
+            "txt" : "Deleted attachment https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-mOZq0UzjzZopfVSrzwq7DXKqKC_LP06qdQ&usqp=CAU on Setup Users API",
+            "createdAt" : 1595883324241.0,
+            "ticketId" : "KD4YERKV2W9JU",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZPYO1CK083",
+            "txt" : "Deleted attachment https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-mOZq0UzjzZopfVSrzwq7DXKqKC_LP06qdQ&usqp=CAU on Setup Users API",
+            "createdAt" : 1595883314881.0,
+            "ticketId" : "KD4YERKV2W9JU",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZO7OFX27JQ",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595883233247.0,
+            "ticketId" : "KD4ZO7OFQPK8G",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZMGP5LQJXM",
+            "txt" : "Added comment \"Test and desploy\" to Add query by email to mongoDB criteria",
+            "createdAt" : 1595883151625.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZM3ABI4029",
+            "txt" : "Deleted attachment https://www.google.com/url?sa=i&url=https%3A%2F%2Fredislabs.com%2Fpartner%2Fheroku%2F&psig=AOvVaw21CGX3Nbablno4RBrz_Hk7&ust=1595969429987000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOimx86n7uoCFQAAAAAdAAAAABAD on Add query by email to mongoDB criteria",
+            "createdAt" : 1595883134243.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4ZLM0XVOBTE",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595883111873.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD4Z48AZDFZU3",
+            "txt" : "Added checklist item \"Mobile first\" to Build initial home page",
+            "createdAt" : 1595882300939.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4Z2UKXO5UBD",
+            "txt" : "Added checklist item \"Must be responsive and fluid\" to Build initial home page",
+            "createdAt" : 1595882236497.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4Z1TJ07DCZ3",
+            "txt" : "Added checklist item \"Use a grid setup\" to Build initial home page",
+            "createdAt" : 1595882188476.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4Z1IKR7UKLH",
+            "txt" : "Added a checklist to Build initial home page",
+            "createdAt" : 1595882174283.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4Z07DW84PUU",
+            "txt" : "Added comment \"Get inspiration from lemoanade.com\" to Build initial home page",
+            "createdAt" : 1595882113124.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YZIU16D8BH",
+            "txt" : "Added comment \"Get inspiration from lemoanade.com\" to Build initial home page",
+            "createdAt" : 1595882081305.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YLOK3Y3IP3",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881435539.0,
+            "ticketId" : "KD4YLOK28NQZC",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YK4XT7ZAE9",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881363457.0,
+            "ticketId" : "KD4YK4XT1LHTU",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YIYCTLAGW2",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881308269.0,
+            "ticketId" : "KD4YIYCTDT7OE",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YI9ZXHV3SV",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881276701.0,
+            "ticketId" : "KD4YI9ZX0EL9T",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YI0SXBAP7U",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881264785.0,
+            "ticketId" : "KD4YI0SXTWRIQ",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YGXNXAITNJ",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881214061.0,
+            "ticketId" : "KD4YGXNWET3SJ",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YFUEWU8Q5C",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881163192.0,
+            "ticketId" : "KD4YFUEVSVELM",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YF5DJQZRTQ",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881130743.0,
+            "ticketId" : "KD4YF5DI0MJUK",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YERKWXAV52",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881112864.0,
+            "ticketId" : "KD4YERKV2W9JU",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD4YEG1KRFDWO",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595881097912.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD506T56LM8JR",
+            "txt" : "Changed the board background",
+            "createdAt" : 1595884100874.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD507A3R4EPTJ",
+            "txt" : "Added a checklist to Add query by email to mongoDB criteria",
+            "createdAt" : 1595884122855.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD507Y4JL1AC1",
+            "txt" : "Added checklist item \"Auth service\" to Add query by email to mongoDB criteria",
+            "createdAt" : 1595884153987.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD5083364PWYZ",
+            "txt" : "Added checklist item \"User service\" to Add query by email to mongoDB criteria",
+            "createdAt" : 1595884160418.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50C02ZQM6LK",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595884343147.0,
+            "ticketId" : "KD50C02Z5MT3Z",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50C46N8RFQS",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595884348463.0,
+            "ticketId" : "KD50C46M1BXQS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50CBQO7ES42",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595884358256.0,
+            "ticketId" : "KD50CBQOLI1RL",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50HTB2Y8SFJ",
+            "txt" : "Deleted group DONE ",
+            "createdAt" : 1595884614302.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50MZIBKV3UU",
+            "txt" : "Added a checklist to Get ready for the summer vacation!",
+            "createdAt" : 1595884855619.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50N3SNIAXVY",
+            "txt" : "Added checklist item \"Buy flip flops\" to Get ready for the summer vacation!",
+            "createdAt" : 1595884861175.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50NB1JE9BW7",
+            "txt" : "Added checklist item \"Buy sunglasses\" to Get ready for the summer vacation!",
+            "createdAt" : 1595884870567.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50NJOPH7IVP",
+            "txt" : "Changed the board name to Clash of Smash R&D",
+            "createdAt" : 1595884881769.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50NJOUWIR1B",
+            "txt" : "Changed the board name to Clash of Smash R&D",
+            "createdAt" : 1595884881774.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50PEBVE695U",
+            "txt" : "Deleted attachment https://www.youtube.com/watch?v=603aSxZQxN4 on BUG - Issue with Galaxy S7 ",
+            "createdAt" : 1595884968139.0,
+            "ticketId" : "KD4YGXNWET3SJ",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50PPF519TTY",
+            "txt" : "Changed the cover on Add query by email to mongoDB criteria",
+            "createdAt" : 1595884982513.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50SB4FR4UNP",
+            "txt" : "Deleted attachment https://lh3.googleusercontent.com/proxy/SdnUXC1W3aSE-vjM9V28SnwQnC0aklsqE6x0oNRQ17cFXIAWUUldcsd9xra-17ZSTxbkmKuMKFYGB8ULYsw1I7YuTIH-MSuBnUOlceQD2N2ry1YEvWS03Mo6gsrbYavRsupLpH_D3EYdNU13V1u1kYug on Add progress bar for User details page",
+            "createdAt" : 1595885103951.0,
+            "ticketId" : "KD4YF5DI0MJUK",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50YWE9WW51B",
+            "txt" : "Deleted attachment https://media.tenor.com/images/d1d95b12cb31fabec7952a607683ae0f/tenor.gif on Setup group chat for players",
+            "createdAt" : 1595885411457.0,
+            "ticketId" : "KD4YI0SXTWRIQ",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50Z0YB34QUP",
+            "txt" : "Added comment \"Testing\" to Setup group chat for players",
+            "createdAt" : 1595885417363.0,
+            "ticketId" : "KD4YI0SXTWRIQ",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50Z34NDP8UE",
+            "txt" : "Added comment \"Test\" to Setup group chat for players",
+            "createdAt" : 1595885420183.0,
+            "ticketId" : "KD4YI0SXTWRIQ",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50Z5EA588M1",
+            "txt" : "Added comment \"Yo\" to Setup group chat for players",
+            "createdAt" : 1595885423122.0,
+            "ticketId" : "KD4YI0SXTWRIQ",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD50ZGND49538",
+            "txt" : "Added comment \"Whats the thought process here\" to Improve UX on Ipad pro 10\" ",
+            "createdAt" : 1595885437705.0,
+            "ticketId" : "KD4YK4XT1LHTU",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }, 
+        {
+            "id" : "KD511M69N19Y2",
+            "txt" : "Changed the cover on Setup group chat for players",
+            "createdAt" : 1595885538177.0,
+            "ticketId" : "KD4YI0SXTWRIQ",
+            "by" : {
+                "_id" : "5f1611b3afda48c98cae46a0",
+                "fullName" : "Dan Haski",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+            }
+        }
+    ],
+    "groups" : [ 
+        {
+            "id" : "KD4YDQ54D8GKF",
+            "title" : "Backlog",
+            "color" : "#eeeeee",
+            "tickets" : [ 
+                {
+                    "id" : "KD4YEG1IWZXAV",
+                    "title" : "Build initial home page",
+                    "cover" : true,
+                    "description" : "Please follow instruction from the PDF, Look at the attached image for design from the designer.\n",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54L7N9V", 
+                        "KD4YDQ543Q5U4"
+                    ],
+                    "createdAt" : 1595280942461,
+                    "by" : {},
+                    "comments" : [ 
+                        {
+                            "id" : "KD4Z07DVHHA2T",
+                            "txt" : "Get inspiration from lemoanade.com",
+                            "createdAt" : 1595882113123.0,
+                            "by" : {
+                                "_id" : "Guest",
+                                "fullName" : "Guest",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+                            }
+                        }
+                    ],
+                    "checklists" : [ 
+                        {
+                            "id" : "KD4Z1IKQ76YE0",
+                            "title" : "Checklist",
+                            "items" : [ 
+                                {
+                                    "id" : "KD4Z1TIZ0B10X",
+                                    "txt" : "Use a grid setup",
+                                    "isDone" : true
+                                }, 
+                                {
+                                    "id" : "KD4Z2UKR2UMTU",
+                                    "txt" : "Must be responsive and fluid",
+                                    "isDone" : true
+                                }, 
+                                {
+                                    "id" : "KD4Z48AZVB3V7",
+                                    "txt" : "Mobile first",
+                                    "isDone" : false
+                                }
+                            ]
+                        }
+                    ],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD50BI2PRZDML",
+                            "type" : "img",
+                            "src" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595884295/kaettrtfnd8nsqlqdtyt.png"
+                        }
+                    ]
+                }, 
+                {
+                    "id" : "KD4YERKV2W9JU",
+                    "title" : "Setup Users API",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1595280942461,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD4ZRS69D5MXP",
+                            "type" : "img",
+                            "src" : "https://www.slothparadise.com/wp-content/uploads/2016/05/nodejs-express-mongo.jpg"
+                        }
+                    ]
+                }, 
+                {
+                    "id" : "KD4YIYCTDT7OE",
+                    "title" : "Add option for group play",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1594676237219,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD50VWG9GAMVY",
+                            "type" : "img",
+                            "src" : "https://sharpedgesmedia.com/wp-content/uploads/2018/08/giphy.gif"
+                        }
+                    ]
+                }, 
+                {
+                    "id" : "KD4YFUEVSVELM",
+                    "title" : "Improve touch controls on Pixel 2 XL",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54CULER"
+                    ],
+                    "createdAt" : 1594071458766,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD4YLOK28NQZC",
+                    "title" : "Work on a better caching setup",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1593466676570,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD50C02Z5MT3Z",
+                    "title" : "Filler ticket",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1592861918310,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD50C46M1BXQS",
+                    "title" : "Another filler ticket",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1592861918310,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD50CBQOLI1RL",
+                    "title" : "Make coffee, lots of coffee",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1592257139965,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }
+            ]
+        }, 
+        {
+            "id" : "KD50H3S3VIVCQ",
+            "title" : "TO DO",
+            "color" : "#eeeeee",
+            "tickets" : [ 
+                {
+                    "id" : "KD4YF5DI0MJUK",
+                    "title" : "Add progress bar for User details page",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54L7N9V", 
+                        "KD4YDQ543Q5U4", 
+                        "KD4YDQ54WLWD7"
+                    ],
+                    "createdAt" : 1592257139965,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD50T4W6M2J62",
+                            "type" : "img",
+                            "src" : "http://uisatz.com/blog/wp-content/uploads/2019/06/Sygnia-Eiko-Ojala-Diedrica-Blog-04-1.gif"
+                        }
+                    ]
+                }, 
+                {
+                    "id" : "KD4YGXNWET3SJ",
+                    "title" : "BUG - Issue with Galaxy S7 ",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54TFCM7"
+                    ],
+                    "createdAt" : 1591652403889,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD4YK4XT1LHTU",
+                    "title" : "Improve UX on Ipad pro 10\" ",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54WLWD7", 
+                        "KD4YDQ543Q5U4"
+                    ],
+                    "createdAt" : 1591047621210,
+                    "by" : {},
+                    "comments" : [ 
+                        {
+                            "id" : "KD50ZGNC03TE5",
+                            "txt" : "Whats the thought process here",
+                            "createdAt" : 1595885437704.0,
+                            "by" : {
+                                "_id" : "5f1611b3afda48c98cae46a0",
+                                "fullName" : "Dan Haski",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+                            }
+                        }
+                    ],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD4YI9ZX0EL9T",
+                    "title" : "Setup person to person chat",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54WLWD7", 
+                        "KD4YDQ54CVSW1"
+                    ],
+                    "createdAt" : 1591047621210,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD4YI0SXTWRIQ",
+                    "title" : "Setup group chat for players",
+                    "cover" : true,
+                    "description" : "Some description\n",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54WLWD7", 
+                        "KD4YDQ54L7N9V"
+                    ],
+                    "createdAt" : 1595881264785.0,
+                    "by" : {},
+                    "comments" : [ 
+                        {
+                            "id" : "KD50Z0YBCOT7M",
+                            "txt" : "Testing",
+                            "createdAt" : 1595885417363.0,
+                            "by" : {
+                                "_id" : "5f1611b3afda48c98cae46a0",
+                                "fullName" : "Dan Haski",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+                            }
+                        }, 
+                        {
+                            "id" : "KD50Z34NEAGPU",
+                            "txt" : "Test",
+                            "createdAt" : 1595885420183.0,
+                            "by" : {
+                                "_id" : "5f1611b3afda48c98cae46a0",
+                                "fullName" : "Dan Haski",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+                            }
+                        }, 
+                        {
+                            "id" : "KD50Z5E961MGJ",
+                            "txt" : "Yo",
+                            "createdAt" : 1595885423121.0,
+                            "by" : {
+                                "_id" : "5f1611b3afda48c98cae46a0",
+                                "fullName" : "Dan Haski",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+                            }
+                        }
+                    ],
+                    "checklists" : [],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD511GQO8Q2MV",
+                            "type" : "img",
+                            "src" : "https://www.armandesign.com/wp-content/uploads/2020/04/4-inovatif-tasarim.gif"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id" : "KD4YDQ54EW8PQ",
+            "title" : "In Progress",
+            "color" : "#eeeeee",
+            "tickets" : [ 
+                {
+                    "id" : "KD4ZO7OFQPK8G",
+                    "title" : "Setup generic vue modal component using slot ",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54L7N9V", 
+                        "KD4YDQ543Q5U4", 
+                        "KD4YDQ54WLWD7"
+                    ],
+                    "createdAt" : 1595883233247.0,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD4ZOD5BIEZK7",
+                            "type" : "img",
+                            "src" : "https://www.fullstackpython.com/img/logos/vuejs-wide.png"
+                        }
+                    ]
+                }, 
+                {
+                    "id" : "KD500MEXDTHGS",
+                    "title" : "Get ready for the summer vacation!",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1595883812217.0,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [ 
+                        {
+                            "id" : "KD50MZIBBIYCK",
+                            "title" : "Checklist",
+                            "items" : [ 
+                                {
+                                    "id" : "KD50N3SNTY12E",
+                                    "txt" : "Buy flip flops",
+                                    "isDone" : true
+                                }, 
+                                {
+                                    "id" : "KD50NB1IOH3KI",
+                                    "txt" : "Buy sunglasses",
+                                    "isDone" : false
+                                }
+                            ]
+                        }
+                    ],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD506ECZESVRN",
+                            "type" : "img",
+                            "src" : "https://image.freepik.com/free-photo/flat-lay-summer-vacation-concept-with-copy-space_23-2148228694.jpg"
+                        }, 
+                        {
+                            "id" : "KD50227SE24KH",
+                            "type" : "img",
+                            "src" : "https://budget-works.com/wp-content/uploads/2013/11/summer2.jpg"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id" : "KD4YDQ54RTO5R",
+            "title" : "Done",
+            "color" : "#eeeeee",
+            "tickets" : [ 
+                {
+                    "id" : "KD4ZLM0WM2T4E",
+                    "title" : "Add query by email to mongoDB criteria",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54CVSW1"
+                    ],
+                    "createdAt" : 1595883111872.0,
+                    "by" : {},
+                    "comments" : [ 
+                        {
+                            "id" : "KD4ZMGP0MT9BP",
+                            "txt" : "Test and desploy",
+                            "createdAt" : 1595883151620.0,
+                            "by" : {
+                                "_id" : "5f1611b3afda48c98cae46a0",
+                                "fullName" : "Dan Haski",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
+                            }
+                        }
+                    ],
+                    "checklists" : [ 
+                        {
+                            "id" : "KD507A3Q4T7C3",
+                            "title" : "Checklist",
+                            "items" : [ 
+                                {
+                                    "id" : "KD507Y4IW0LRR",
+                                    "txt" : "Auth service",
+                                    "isDone" : true
+                                }, 
+                                {
+                                    "id" : "KD508335L6OR7",
+                                    "txt" : "User service",
+                                    "isDone" : true
+                                }
+                            ]
+                        }
+                    ],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD50POB5GOP5M",
+                            "type" : "img",
+                            "src" : "https://cdn.dribbble.com/users/776867/screenshots/6179644/mongogooo.gif"
+                        }, 
+                        {
+                            "id" : "KD4ZM0YQX5XFS",
+                            "type" : "img",
+                            "src" : "https://redislabs.com/wp-content/uploads/2016/11/logo-square-heroku.png"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id" : "KD50HDSUZYVYA",
+            "title" : "Deployed",
+            "color" : "#eeeeee",
+            "tickets" : []
+        }
+    ]
+}
