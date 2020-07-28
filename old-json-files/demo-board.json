@@ -2,14 +2,7 @@
     "title" : "Clash of Smash R&D",
     "background" : "url(https://res.cloudinary.com/dkdsymsli/image/upload/v1595784408/vlyweeydsdsmvarf2pto.jpg) center / cover",
     "createdAt" : 1595881064344.0,
-    "members" : [ 
-        {
-            "_id" : "5f1611b3afda48c98cae46a0",
-            "fullName" : "Dan Haski",
-            "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg",
-            "type" : "user"
-        }
-    ],
+    "members" : [],
     "labels" : [ 
         {
             "id" : "KD4YDQ54L7N9V",
@@ -592,6 +585,314 @@
                 "fullName" : "Dan Haski",
                 "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595281838/kmwenamw4nypn2wzkm7x.jpg"
             }
+        }, 
+        {
+            "id" : "KD5220HDT5FQF",
+            "txt" : "Added comment \"Really? Supporting iphone 5??\" to Fix issue on iphone 5",
+            "createdAt" : 1595887236337.0,
+            "ticketId" : "KD50C02Z5MT3Z",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD522I7KHR7N0",
+            "txt" : "Added comment \"Yes!\" to Make coffee, lots of coffee",
+            "createdAt" : 1595887259312.0,
+            "ticketId" : "KD50CBQOLI1RL",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD523Y0QU4G1B",
+            "txt" : "Deleted attachment http://res.cloudinary.com/dkdsymsli/image/upload/v1595884295/kaettrtfnd8nsqlqdtyt.png on Build initial home page",
+            "createdAt" : 1595887326458.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52560SHAVX5",
+            "txt" : "Changed the cover on Build initial home page",
+            "createdAt" : 1595887383484.0,
+            "ticketId" : "KD4YEG1IWZXAV",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD5261UWB8BTT",
+            "txt" : "Assigned Dan Haski to ticket Setup generic vue modal component using slot ",
+            "createdAt" : 1595887424744.0,
+            "ticketId" : "KD4ZO7OFQPK8G",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52675H1IWYG",
+            "txt" : "Added Yoni Kohn to board",
+            "createdAt" : 1595887431605.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD5269R3VTYZT",
+            "txt" : "Added Dan Shamsham to board",
+            "createdAt" : 1595887434975.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD526EMFRFUR1",
+            "txt" : "Assigned Dan Shamsham to ticket Setup generic vue modal component using slot ",
+            "createdAt" : 1595887441287.0,
+            "ticketId" : "KD4ZO7OFQPK8G",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD526IFQ7Z5ZV",
+            "txt" : "Assigned Yoni Kohn to ticket Get ready for the summer vacation!",
+            "createdAt" : 1595887446230.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD526M6PL2EKK",
+            "txt" : "Assigned Yoni Kohn to ticket Add query by email to mongoDB criteria",
+            "createdAt" : 1595887451089.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD526QMYBMAJV",
+            "txt" : "Assigned Dan Haski to ticket Add progress bar for User details page",
+            "createdAt" : 1595887456858.0,
+            "ticketId" : "KD4YF5DI0MJUK",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD526ZMQZDW1Z",
+            "txt" : "Removed Dan Shamsham from ticket Setup generic vue modal component using slot ",
+            "createdAt" : 1595887468514.0,
+            "ticketId" : "KD4ZO7OFQPK8G",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD5278L15AID9",
+            "txt" : "Added Shmulik to board",
+            "createdAt" : 1595887480117.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD527I58BRG4U",
+            "txt" : "Assigned Shmulik to ticket Setup person to person chat",
+            "createdAt" : 1595887492508.0,
+            "ticketId" : "KD4YI9ZX0EL9T",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD5295RHBIYFP",
+            "txt" : "Added a new ticket",
+            "createdAt" : 1595887569773.0,
+            "ticketId" : "KD5295RGB8W1W",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52CDA61AQ6F",
+            "txt" : "Added a checklist to Build dashboard",
+            "createdAt" : 1595887719486.0,
+            "ticketId" : "KD5295RGB8W1W",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52CKK39LDIH",
+            "txt" : "Added checklist item \"Build graphs\" to Build dashboard",
+            "createdAt" : 1595887728915.0,
+            "ticketId" : "KD5295RGB8W1W",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52CSTUOGSG4",
+            "txt" : "Added checklist item \"Design\" to Build dashboard",
+            "createdAt" : 1595887739634.0,
+            "ticketId" : "KD5295RGB8W1W",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52CYXOWRAGO",
+            "txt" : "Added checklist item \"Add gradient support\" to Build dashboard",
+            "createdAt" : 1595887747548.0,
+            "ticketId" : "KD5295RGB8W1W",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52EMXORTHZS",
+            "txt" : "Removed Dan Haski from ticket Setup generic vue modal component using slot ",
+            "createdAt" : 1595887825308.0,
+            "ticketId" : "KD4ZO7OFQPK8G",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52EQROD5M0Z",
+            "txt" : "Removed Yoni Kohn from ticket Add query by email to mongoDB criteria",
+            "createdAt" : 1595887830276.0,
+            "ticketId" : "KD4ZLM0WM2T4E",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52EUWTDNBWM",
+            "txt" : "Removed Yoni Kohn from ticket Get ready for the summer vacation!",
+            "createdAt" : 1595887835646.0,
+            "ticketId" : "KD500MEXDTHGS",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52F05OMJ6CV",
+            "txt" : "Removed Dan Haski from ticket Add progress bar for User details page",
+            "createdAt" : 1595887842445.0,
+            "ticketId" : "KD4YF5DI0MJUK",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52F3NJDC9F0",
+            "txt" : "Removed Shmulik from ticket Setup person to person chat",
+            "createdAt" : 1595887846975.0,
+            "ticketId" : "KD4YI9ZX0EL9T",
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52FEYT92D33",
+            "txt" : "Removed Dan Haski from board",
+            "createdAt" : 1595887861637.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52FFEJVEZ75",
+            "txt" : "Removed Dan Shamsham from board",
+            "createdAt" : 1595887862203.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52FFN30Z553",
+            "txt" : "Removed Shmulik from board",
+            "createdAt" : 1595887862511.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
+        }, 
+        {
+            "id" : "KD52FFWRS4ETA",
+            "txt" : "Removed Yoni Kohn from board",
+            "createdAt" : 1595887862859.0,
+            "ticketId" : null,
+            "by" : {
+                "_id" : "Guest",
+                "fullName" : "Guest",
+                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+            }
         }
     ],
     "groups" : [ 
@@ -611,20 +912,9 @@
                         "KD4YDQ54L7N9V", 
                         "KD4YDQ543Q5U4"
                     ],
-                    "createdAt" : 1595280942461,
+                    "createdAt" : 1595280942461.0,
                     "by" : {},
-                    "comments" : [ 
-                        {
-                            "id" : "KD4Z07DVHHA2T",
-                            "txt" : "Get inspiration from lemoanade.com",
-                            "createdAt" : 1595882113123.0,
-                            "by" : {
-                                "_id" : "Guest",
-                                "fullName" : "Guest",
-                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
-                            }
-                        }
-                    ],
+                    "comments" : [],
                     "checklists" : [ 
                         {
                             "id" : "KD4Z1IKQ76YE0",
@@ -650,9 +940,9 @@
                     ],
                     "attachments" : [ 
                         {
-                            "id" : "KD50BI2PRZDML",
+                            "id" : "KD5251ZR05MFP",
                             "type" : "img",
-                            "src" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595884295/kaettrtfnd8nsqlqdtyt.png"
+                            "src" : "https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/08/20142354/best-homepage-13.png"
                         }
                     ]
                 }, 
@@ -664,7 +954,7 @@
                     "color" : "#fff",
                     "members" : [],
                     "labels" : [],
-                    "createdAt" : 1595280942461,
+                    "createdAt" : 1595280942461.0,
                     "by" : {},
                     "comments" : [],
                     "checklists" : [],
@@ -683,8 +973,10 @@
                     "description" : "",
                     "color" : "#fff",
                     "members" : [],
-                    "labels" : [],
-                    "createdAt" : 1594676237219,
+                    "labels" : [ 
+                        "KD4YDQ54CVSW1"
+                    ],
+                    "createdAt" : 1594676237219.0,
                     "by" : {},
                     "comments" : [],
                     "checklists" : [],
@@ -697,46 +989,54 @@
                     ]
                 }, 
                 {
-                    "id" : "KD4YFUEVSVELM",
-                    "title" : "Improve touch controls on Pixel 2 XL",
-                    "cover" : true,
-                    "description" : "",
-                    "color" : "#fff",
-                    "members" : [],
-                    "labels" : [ 
-                        "KD4YDQ54CULER"
-                    ],
-                    "createdAt" : 1594071458766,
-                    "by" : {},
-                    "comments" : [],
-                    "checklists" : [],
-                    "attachments" : []
-                }, 
-                {
-                    "id" : "KD4YLOK28NQZC",
-                    "title" : "Work on a better caching setup",
+                    "id" : "KD50CBQOLI1RL",
+                    "title" : "Make coffee, lots of coffee",
                     "cover" : true,
                     "description" : "",
                     "color" : "#fff",
                     "members" : [],
                     "labels" : [],
-                    "createdAt" : 1593466676570,
+                    "createdAt" : 1592257139965.0,
                     "by" : {},
-                    "comments" : [],
+                    "comments" : [ 
+                        {
+                            "id" : "KD522I7KVVQ41",
+                            "txt" : "Yes!",
+                            "createdAt" : 1595887259312.0,
+                            "by" : {
+                                "_id" : "Guest",
+                                "fullName" : "Guest",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+                            }
+                        }
+                    ],
                     "checklists" : [],
                     "attachments" : []
                 }, 
                 {
                     "id" : "KD50C02Z5MT3Z",
-                    "title" : "Filler ticket",
+                    "title" : "Fix issue on iphone 5",
                     "cover" : true,
                     "description" : "",
                     "color" : "#fff",
                     "members" : [],
-                    "labels" : [],
-                    "createdAt" : 1592861918310,
+                    "labels" : [ 
+                        "KD4YDQ54TFCM7"
+                    ],
+                    "createdAt" : 1592861918310.0,
                     "by" : {},
-                    "comments" : [],
+                    "comments" : [ 
+                        {
+                            "id" : "KD5220HDSYI4Y",
+                            "txt" : "Really? Supporting iPhone 5??",
+                            "createdAt" : 1595887236337.0,
+                            "by" : {
+                                "_id" : "Guest",
+                                "fullName" : "Guest",
+                                "imgSrc" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595713140/dklfuu3fq5kcng4qqpfv.png"
+                            }
+                        }
+                    ],
                     "checklists" : [],
                     "attachments" : []
                 }, 
@@ -748,21 +1048,7 @@
                     "color" : "#fff",
                     "members" : [],
                     "labels" : [],
-                    "createdAt" : 1592861918310,
-                    "by" : {},
-                    "comments" : [],
-                    "checklists" : [],
-                    "attachments" : []
-                }, 
-                {
-                    "id" : "KD50CBQOLI1RL",
-                    "title" : "Make coffee, lots of coffee",
-                    "cover" : true,
-                    "description" : "",
-                    "color" : "#fff",
-                    "members" : [],
-                    "labels" : [],
-                    "createdAt" : 1592257139965,
+                    "createdAt" : 1592861918310.0,
                     "by" : {},
                     "comments" : [],
                     "checklists" : [],
@@ -787,7 +1073,7 @@
                         "KD4YDQ543Q5U4", 
                         "KD4YDQ54WLWD7"
                     ],
-                    "createdAt" : 1592257139965,
+                    "createdAt" : 1592257139965.0,
                     "by" : {},
                     "comments" : [],
                     "checklists" : [],
@@ -809,7 +1095,7 @@
                     "labels" : [ 
                         "KD4YDQ54TFCM7"
                     ],
-                    "createdAt" : 1591652403889,
+                    "createdAt" : 1591652403889.0,
                     "by" : {},
                     "comments" : [],
                     "checklists" : [],
@@ -826,7 +1112,7 @@
                         "KD4YDQ54WLWD7", 
                         "KD4YDQ543Q5U4"
                     ],
-                    "createdAt" : 1591047621210,
+                    "createdAt" : 1591047621210.0,
                     "by" : {},
                     "comments" : [ 
                         {
@@ -854,7 +1140,7 @@
                         "KD4YDQ54WLWD7", 
                         "KD4YDQ54CVSW1"
                     ],
-                    "createdAt" : 1591047621210,
+                    "createdAt" : 1591047621210.0,
                     "by" : {},
                     "comments" : [],
                     "checklists" : [],
@@ -1055,7 +1341,80 @@
             "id" : "KD50HDSUZYVYA",
             "title" : "Deployed",
             "color" : "#eeeeee",
-            "tickets" : []
+            "tickets" : [ 
+                {
+                    "id" : "KD4YLOK28NQZC",
+                    "title" : "Work on a better caching setup",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1593466676570.0,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD4YFUEVSVELM",
+                    "title" : "Improve touch controls on Pixel 2 XL",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [ 
+                        "KD4YDQ54CULER"
+                    ],
+                    "createdAt" : 1594071458766.0,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [],
+                    "attachments" : []
+                }, 
+                {
+                    "id" : "KD5295RGB8W1W",
+                    "title" : "Build dashboard",
+                    "cover" : true,
+                    "description" : "",
+                    "color" : "#fff",
+                    "members" : [],
+                    "labels" : [],
+                    "createdAt" : 1595887569772.0,
+                    "by" : {},
+                    "comments" : [],
+                    "checklists" : [ 
+                        {
+                            "id" : "KD52CDA5QXU37",
+                            "title" : "Checklist",
+                            "items" : [ 
+                                {
+                                    "id" : "KD52CKK2DXHLL",
+                                    "txt" : "Build graphs",
+                                    "isDone" : true
+                                }, 
+                                {
+                                    "id" : "KD52CSTTS3H72",
+                                    "txt" : "Design",
+                                    "isDone" : true
+                                }, 
+                                {
+                                    "id" : "KD52CYXN68CVE",
+                                    "txt" : "Add gradient support",
+                                    "isDone" : true
+                                }
+                            ]
+                        }
+                    ],
+                    "attachments" : [ 
+                        {
+                            "id" : "KD52D2QR2PABK",
+                            "type" : "img",
+                            "src" : "http://res.cloudinary.com/dkdsymsli/image/upload/v1595887710/gct2kciy44oakmwmu8sy.png"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
