@@ -8,7 +8,7 @@ function connectSockets(io) {
             // io.emit('chat addMsg', msg)
             // emits only to sockets in the same room
             
-            io.to(socket.boardId).emit('feed update')
+            socket.broadcast.to(socket.boardId).emit('feed update')
         })
         socket.on('feed board', boardId=>{
             console.log({boardId})
